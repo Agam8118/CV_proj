@@ -1,7 +1,9 @@
-opencv-python>=4.8.0
-numpy>=1.24.0
-pandas>=2.0.0
-scikit-image>=0.21.0
-scikit-learn>=1.3.0
-matplotlib>=3.7.0
-joblib>=1.3.0
+numpy
+pandas
+scikit-image
+scikit-learn
+matplotlib
+joblib
+streamlit
+opencv-python-headless
+Pillow
